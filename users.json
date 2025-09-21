@@ -1,0 +1,17 @@
+[
+  {
+    "username": "Botions",
+    "email": "bot@gmail.com",
+    "passwordHash": "$2a$08$jUxk3EIBimXpjA6C..cdM.ai6BvmUFCtP6HCJk7SiknETa96THqdK",
+    "servers": [
+      {
+        "name": "LifeOfLion",
+        "type": "fivem"
+      },
+      {
+        "name": "Botions Botions",
+        "type": "minecraft"
+      }
+    ]
+  }
+]
